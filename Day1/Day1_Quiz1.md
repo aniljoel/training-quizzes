@@ -20,13 +20,14 @@ YOUR ANSWER:C
 
 YOUR ANSWER:
 
-testarr[0]=3
-testarr[1]=15
-testarr[2]=43092
+var testarr = [3,15,43092]
 
 **4. Declare a string variable named things and a number variable named salary. Assign the things variable the value of "The Dog Whisperer" and the salary variable the value of 53001.**
 
 YOUR ANSWER:
-var things = 'The Dog Whisperer'
-var sal = 53001.**
+var str = "The Dog Whisperer"
+var val = str.valueOf(str);
+
+var sal = 53001.00
+
 FINISHED? When you are done, commit your answer and submit a pull request back to the main repository you forked inside of a branch with your name as the name of the branch.
